@@ -1,3 +1,5 @@
+# :warning: This is an unmaintained fork! Please go to the [original repository](https://github.com/Aakash1312/scroll-searcher)
+
 # Scroll-Searcher package
 
 
